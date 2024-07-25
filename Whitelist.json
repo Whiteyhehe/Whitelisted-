@@ -1,11 +1,5 @@
 {
-  "Owner": [
-    { "id": "5145016772", "name": "YourName" }
-  ],
-  "Snoopy": [
-    { "id": "1234567890", "name": "SnoopyUser" }
-  ],
-  "Private": [
-    { "id": "0987654321", "name": "PrivateUser" }
-  ]
+    "Owner": [
+        {"id": "5145016772"}
+    ]
 }
